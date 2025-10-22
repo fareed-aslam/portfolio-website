@@ -74,7 +74,7 @@ const Hero = () => {
       </p>
       <div className="flex gap-3 mb-6">
         <a
-          href="../assets/My Cv.pdf"
+          href="/fareedCV.pdf"
           target="_blank"
           rel="noopener noreferrer"
           download
